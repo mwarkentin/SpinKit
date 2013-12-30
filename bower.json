@@ -1,0 +1,26 @@
+{
+  "name": "spinkit",
+  "version": "0.1.0-dev",
+  "homepage": "http://tobiasahlin.com/spinkit/",
+  "authors": [
+    "Tobias Ahlin <tobias@tobiasahlin.com>",
+    "Michael Warkentin <mwarkentin@gmail.com>"
+  ],
+  "description": "A collection of loading indicators animated with CSS",
+  "main": "dist/spinkit.css",
+  "keywords": [
+    "css",
+    "spinners",
+    "loading",
+    "animations"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
